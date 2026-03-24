@@ -28,3 +28,6 @@ A simple Python-based Command Line Interface (CLI) application to track stock in
 2. Run the file:
 ```bash
 python stock_portfolio.py
+
+##author
+Kaviya S N 
